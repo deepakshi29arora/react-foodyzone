@@ -34,7 +34,6 @@ fetchData();
     eleinarray.name.toLowerCase().includes(searchValue.toLowerCase())
   );
   setfilterData(filteredans);
- // console.log(filteredans);
 };
  console.log(data);
 
